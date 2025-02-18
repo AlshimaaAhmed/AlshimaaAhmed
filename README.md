@@ -1,6 +1,8 @@
 ## Hi there, I am Alshimaa Ahmed 👋
-
-
+ Computer science Student and Flutter develper, Continuously learning and turning ideas into reality. 🚀
+ ## ✉️ Contact with me 
+   [LinkedIn](https://www.linkedin.com/in/alshimaa-ahmed-702036281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGspN15d4R5%2BOrCk85dWllQ%3D%3D)<br>
+   [Gmail](alshimaa185@gmail.com)
 <!--
 **AlshimaaAhmed/AlshimaaAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
