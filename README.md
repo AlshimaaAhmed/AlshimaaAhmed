@@ -1,20 +1,31 @@
-## Hi there, I am Alshimaa Ahmed 👋
- Computer science Student and Flutter developer, Continuously learning and turning ideas into reality. 🚀
- ## ✉️ Contact with me 
-   - [LinkedIn](https://www.linkedin.com/in/alshimaa-ahmed-702036281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BGspN15d4R5%2BOrCk85dWllQ%3D%3D)<br>
-   
-   Feel free to contact me via [alshimaa185@gmail.com] with any questions or feedback.
-<!--
-**AlshimaaAhmed/AlshimaaAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there, I'm Alshimaa Ahmed
 
-Here are some ideas to get you started:
+🚀 Passionate **Flutter Developer** & **Machine Learning Enthusiast**  
+🎓 Graduate of the **DEPI Mobile App Development Track**  
+👩‍🏫 Flutter Instructor at **IEEE-FCIH**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 I’m currently learning:
+- Advanced Machine Learning algorithms & real-world applications
+- How to integrate ML models into mobile apps using Flutter
+
+---
+
+### 💻 What I work with:
+- Flutter & Dart  
+- Python for ML  
+- Firebase & Hive for backend  
+- Git & GitHub for version control  
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/alshimaa-ahmed-702036281/)  
+- [Email](mailto:alshimaa185@gmail.com)
+
+---
+
+### 📊 GitHub Stats
+
+![Alshimaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlshimaaAhmed&show_icons=true&theme=radical)
