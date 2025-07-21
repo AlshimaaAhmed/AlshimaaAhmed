@@ -12,11 +12,15 @@
 
 ---
 
-### 💻 What I work with:
-- Flutter & Dart  
-- Python for ML  
-- Firebase & Hive for backend  
-- Git & GitHub for version control  
+### 💡 Skills
+
+- 💻 Programming: Dart, Python, Java, C++
+- 📱 Mobile Development: Flutter, Android (Java)
+- 🤖 Machine Learning: Scikit-learn, Pandas, NumPy, Matplotlib
+- 🗄️ Databases: Firebase, Hive
+- 🌐 Tools & Platforms: Git, GitHub, VS Code, Android Studio
+- 🧠 Soft Skills: Teaching, Problem Solving, Team Collaboration
+  
 
 ---
 
@@ -25,7 +29,3 @@
 - [Email](mailto:alshimaa185@gmail.com)
 
 ---
-
-### 📊 GitHub Stats
-
-![Alshimaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlshimaaAhmed&show_icons=true&theme=radical)
