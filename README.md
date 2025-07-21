@@ -17,7 +17,7 @@
 - 💻 Programming: Dart, Python, Java, C++
 - 📱 Mobile Development: Flutter, Android (Java)
 - 🤖 Machine Learning: Scikit-learn, Pandas, NumPy, Matplotlib
-- 🗄️ Databases: Firebase, Hive
+- 🗄️ Databases: Supabase, Hive
 - 🌐 Tools & Platforms: Git, GitHub, VS Code, Android Studio
 - 🧠 Soft Skills: Teaching, Problem Solving, Team Collaboration
   
